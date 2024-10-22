@@ -1,0 +1,12 @@
+@use "@fkui/css-variables/dist/fkui-exp-css-variables";
+@use "@fkui/design/src/fkui-exp";
+@import url("https://fonts.googleapis.com/css2?family=Public+Sans:ital,wght@0,100..900;1,100..900&display=swap");
+
+body {
+  font-family: "Public Sans", sans-serif;
+}
+
+.ruler {
+  border-top: 2px solid #ddddde;
+  margin-bottom: 24px;
+}
